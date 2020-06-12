@@ -1,2 +1,6 @@
 // Write your code here
-class 
+class Breakfast{
+  constructor(){
+    
+  }
+}
